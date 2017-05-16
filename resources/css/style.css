@@ -1,0 +1,48 @@
+body {
+	font-family: Helvetica, sans-serif;
+    text-align: center;
+    background-color: white;
+}
+
+nav,a {
+    font-size: 18px;
+    color: white;
+}
+
+h1 {
+	color: white;
+	font-size: 70px;
+}
+
+h2 {
+	font-size: 32px;
+	font-weight: bold;	
+}
+
+h3 {
+	font-size: 23px;
+	font-weight: bold;	
+}
+
+p {
+	font-size: 14px; color: #888888;	
+}
+
+#header {
+	background-image: url("../images/the-flatiron-building.png");
+	text-align: center;
+}
+
+#madeinny {
+	font-size: 23px;
+	font-weight: bold;
+	color: white;
+	background-image: url("../images/the-flatiron-building.png");
+}
+
+#footer {
+    text-align: left;
+    font-size: 11px;
+    background-color: dimgray;
+    color: white;
+}
